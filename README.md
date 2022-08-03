@@ -1,4 +1,4 @@
 # Relvise
 responsive layout
 
-https://loki13btz.github.io/Relvise/
+http://loki13btz.github.io/Relvise/
